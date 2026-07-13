@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Go+•+Python+•+Rust+•+Solidity+•+TypeScript;Building+AI+Infrastructure+for+Africa;Backend+Engineer+•+ML+Engineer+•+Systems;AI+•+Distributed+Systems+•+Web3;Building+Products+That+Actually+Scale" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Go+•+Python+•+Rust+•+Solidity+•+TypeScript;Building+AI+Infrastructure+for+Africa;Backend+Engineer+•+ML+Engineer+•+Mobile+Developer;AI+•+Distributed+Systems+•+Web3+•+Mobile;Building+Products+That+Actually+Scale" />
 
 </div>
 
@@ -42,6 +42,7 @@ location: Nigeria
 roles:
   - ML Engineer
   - Backend Engineer
+  - Mobile Developer
   - Blockchain Developer
   - Systems Engineer
 
@@ -49,6 +50,7 @@ specialization:
   - AI Infrastructure
   - Distributed Systems
   - Backend Architecture
+  - Mobile App Development
   - LLM Engineering
   - Smart Contracts
 
@@ -84,9 +86,15 @@ currently_building:
 
 ---
 
-### Frontend & Mobile
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,vue,flutter,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,vue,tailwind&theme=dark" />
+
+---
+
+### Mobile Development
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio&theme=dark" />
 
 </div>
 
@@ -180,22 +188,6 @@ Developer-focused educational platform helping African developers grow technical
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maziidev&theme=tokyonight" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maziidev&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maziidev&theme=tokyonight" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/maziidev/maziidev/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
